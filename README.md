@@ -11,7 +11,12 @@
 - 💻 JavaScript (ES6+)
 - 🗃️ PostgreSQL
 - 🧠 GitHub
-
+- 
+## 📈 Objetivos de este repositorio
+- Practicar y aplicar mis conocimientos de JavaScript y bases de datos
+- Crear soluciones a problemas reales
+- Compartir y mejorar mi código de forma colaborativa
+- 
 ## 📫 Contáctame
 Si quieres compartir ideas, sugerencias o proyectos colaborativos, puedes escribirme a:
 
