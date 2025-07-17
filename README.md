@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Me+Llamo+Leonardo+y+Me+Gusta+la+programación&center=true&width=500&height=60"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Me+Llamo+Leonardo+y+Me+Gusta+la+programación&center=true&width=400&height=70"></a>
 </p>
 # 👨‍💻 Leonardo Atiencia - Portafolio de Desarrollo
 
